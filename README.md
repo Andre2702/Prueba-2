@@ -8,7 +8,7 @@ Este es un repositorio para la prueba #2 de la materia de Administración de Dat
 ## Carpetas y Archivos
 
 ### Prueba2
-  Esta es la carpeta principal en la cual se encuentran 3 carpetas: "Data Procesada", "Data sin Procesar" e "Instrucciones del examen".
+  Esta es la carpeta principal en la cual se encuentran 3 carpetas y 1 Archivo: "Data Procesada", "Data sin Procesar" e "Instrucciones del examen" y el Archivo "Respuestas"
   
 ### Data sin procesar
   En esta carpeta se encuentra el archivo xlsx "Data sin Procesar" y este archivo como su nombre lo indica contiene la data sin porcesar.
@@ -18,3 +18,6 @@ Este es un repositorio para la prueba #2 de la materia de Administración de Dat
 
 ### Instrucciones del examen
   En esta carpeta se encuentar el archivo docx "Examen_2" y contiene las instrucciones del examen.
+  
+### Respuetas
+  Este archivo contiene las respuestas de la parte escrita de la prueba.
